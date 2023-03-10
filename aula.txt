@@ -1,0 +1,49 @@
+Competência 
+
+1- Projetar sistemas de informação, selecionando linguagens de programação e ambientes de desenvolvimento de acordo com as especificidades do projeto.
+
+Habilidades 
+
+1.1- Codificar programas orientados a objetos.
+1.2- Utilizar ambientes de desenvolvimento para desenvolvimento desktop.
+1.3- Conectar aplicações com banco de dados.
+1.4- Aplicar técnicas orientação a objetos.
+1.5- Construir interface gráfica.
+
+Bases Tecnológicas 
+
+Programação orientada a objetos
+	* Classes, objetos e instanciação;
+	* Atributos e métodos;
+	* Encapsulamento;
+	* Construtores;
+	* Sobrecarga de métodos;
+	* Herança;
+	* Sobre-escrita de métodos;
+	* Sobrecarga de construtores;
+	* Polimorfismo;
+	* Classes abstrates e interfaces;
+	* Namespaces, organização de classes pacotes.
+
+Padrão de projeto MVC.
+
+Construção de interface gráfica com o usuário (GUI) 
+	* Caixas de diálogo;
+	* Formulários;
+	* Texto;
+	* Campo de texto;
+	* Caixa de combinação;
+	* Caixa de seleção;
+	* Painéis;
+	* Abas;
+	* Botões;
+	* Botões de rádio;
+	* Botões de seleção;
+	* Menus.
+
+Persistência em bancos de dados
+	* Padrão de projeto DAO;
+	* Conexão ao banco de dados;
+	* Operações CRUD simples (criação, leitura, alteração e exclusão);
+	* Consultas parametrizadas e prevenção de SQL Injection.
+	

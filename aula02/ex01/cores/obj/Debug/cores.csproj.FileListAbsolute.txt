@@ -1,0 +1,8 @@
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\cores\bin\Debug\cores.exe.config
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\cores\bin\Debug\cores.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\cores\bin\Debug\cores.pdb
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\cores\obj\Debug\cores.csproj.AssemblyReference.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\cores\obj\Debug\cores.csproj.SuggestedBindingRedirects.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\cores\obj\Debug\cores.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\cores\obj\Debug\cores.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\cores\obj\Debug\cores.pdb

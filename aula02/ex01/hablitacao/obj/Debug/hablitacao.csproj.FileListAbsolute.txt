@@ -1,0 +1,8 @@
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\hablitacao\bin\Debug\hablitacao.exe.config
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\hablitacao\bin\Debug\hablitacao.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\hablitacao\bin\Debug\hablitacao.pdb
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\hablitacao\obj\Debug\hablitacao.csproj.AssemblyReference.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\hablitacao\obj\Debug\hablitacao.csproj.SuggestedBindingRedirects.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\hablitacao\obj\Debug\hablitacao.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\hablitacao\obj\Debug\hablitacao.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula02\ex01\hablitacao\obj\Debug\hablitacao.pdb

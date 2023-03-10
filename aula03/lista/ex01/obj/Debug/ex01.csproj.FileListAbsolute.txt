@@ -1,0 +1,8 @@
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula03\lista\ex01\bin\Debug\ex01.exe.config
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula03\lista\ex01\bin\Debug\ex01.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula03\lista\ex01\bin\Debug\ex01.pdb
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula03\lista\ex01\obj\Debug\ex01.csproj.AssemblyReference.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula03\lista\ex01\obj\Debug\ex01.csproj.SuggestedBindingRedirects.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula03\lista\ex01\obj\Debug\ex01.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula03\lista\ex01\obj\Debug\ex01.exe
+D:\DESENVOLVIMENTO DE SISTEMAS\2_modulo\c#\aula03\lista\ex01\obj\Debug\ex01.pdb
